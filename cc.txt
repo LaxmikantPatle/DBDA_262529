@@ -1,0 +1,4 @@
+Cloud computing refers to performance of computation on remote hardware made avalable to us through the internet.
+There are many cloud service providers like amazon's aws, microsoft's azure and many more
+Cloud computing has made high end computing hardware more avalable and affordable for companies and individuals.
+  
